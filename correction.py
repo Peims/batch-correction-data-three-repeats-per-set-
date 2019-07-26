@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+#created by Maosong Pei
 import re
 from sys import argv
 a=open(argv[1])
